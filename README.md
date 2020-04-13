@@ -12,3 +12,9 @@ The application uses the tvMaze.com API to pull television show data and display
 4. EJS - https://www.npmjs.com/package/ejs
 
 
+## How to run application?
+
+1. download file from Github
+2. in command line or terminal: npm node index.js
+3. in browser: http://localhost:3000/searchshow
+

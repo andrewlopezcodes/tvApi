@@ -37,3 +37,5 @@ index.post('/showsearch', function(req, res){
 });
 
 index.listen(port, () => console.log(`Example app listening at http://localhost:${port}`))
+
+// written by @andrewlopezcodes on Github
